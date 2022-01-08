@@ -51,6 +51,5 @@ Site vitrine présentant une salle de sport
     <p><strong>SPORTIF-UNITED</strong>n'est pas seulement qu'une salle de sport.Nous vous proposons un moment detente, un massage musculaire disponible exclusivement a tout ceux disposant d'un pass mois.</p>
   </div>
   </div>
-  <script src="main.js"></script>
 </body>
 </html>
